@@ -17,10 +17,6 @@
   "keywords": [],
   "author": "Aykıl Kılıç",
   "license": "",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/progayk/npm-package-template-starter.git"
-  },
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
